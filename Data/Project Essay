@@ -1,11 +1,18 @@
 # Redemption for Data Generated as an Undergraduate Assistant
 
-##Introduction
-In the spring of 2020, I was working as an undergaduate research assistant at the University of Iowa High Throughput Screening  facility, where I was generating data on cellular responses to several possible drug candidates for ovarian cancer. Everything with that went perfect until the portion of my 'final project' for them where I had to generate figures (long story short I bombed it due to my inexpierience generating actual scientific figures and working with data at that level). Now that I am more experienced and  have been able to learn more, this is the perfect opportunity for me to prove to myself I know how to do this sort of thing. The data I will be working with is generated based on the mean of the standard deviations of the fluorescence of the nuclei of the cells over a period of 24 hours (per well)
+## Reference
+University of Iowa Hight Throughput Screen Laboratory. Dr. Meng Wu, Research Specialist Kuo-Kuang Wen
+
+## Introduction
+In the spring of 2020, I was working as an undergaduate research assistant at the University of Iowa High Throughput Screening  facility, where I was generating data on cellular responses to several possible drug candidates for ovarian cancer. Everything with that went perfect until the portion of my 'final project' for them where I had to generate figures (long story short I bombed it due to my inexpierience generating actual scientific figures and working with data at that level). Now that I am more experienced and  have been able to learn more, this is the perfect opportunity for me to prove to myself I know how to do this sort of thing. The data I will be working with is generated based on the mean of the standard deviations of the fluorescence (brightness) of the nuclei of the cells over a period of 24 hours (per well)
 
 To See the Figures, see Pictures 1 and 2 in this directory (github is unhappy with embedding photos at the moment)
-Here they are embedded just in case it suddenly works:
+Here they are embedded just in case it suddenly decides to work:
 
 ![](data/Picture1.png)
 
 ![](data/Picture2.png)
+
+
+## Materials and Methods
+Because I already have the data (both in raw form and after organizing), the procedure *should* be straightforward. I will be using the raw data so that I can ensure I do not miss any mistakes I may have made early on in the process, that way I can start fresh with this 'do-over'. With this, I will need to organize the data in a way that allows for me to create new figures of a much higher quality. I will also have A LOT of data to choose from, so I will also need to sort through it in order to choose good data that I can generate those high quality figures from. I will likely transpose the data I choos einto a separate table, so that it will be easier to generate a variety of figures from, which I can then choose for to pick the figure the best fits what the data represents.
