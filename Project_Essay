@@ -33,8 +33,7 @@ consolidated into one line in a new figure to prevent unnecessary overlap that w
 prevent the data from being clear and easy to interpret, as well as selecting a 
 different figure type to better fit the type of data being represented.
 
-
-<img src="github/Intro-Sci-Comp-UIowa/biol-4386-course-project-Mythguy/blob/main/Data/Row%20A%20Mock.png" width="800px" height="auto">
+https://github.com/Intro-Sci-Comp-UIowa/biol-4386-course-project-Mythguy/blob/main/Data/Row%20A%20Mock.png?raw=true
 
 Figure 1. Mock Plate Sections for Row A (above), Figure 2. Piplartine Plate Sections 
 for Row A (below). The X-axis is the time period. At every hour, an image of the plate 
@@ -45,8 +44,8 @@ each well, averaged out for all row A. Each line represents a single trial, one 
 each section of the plate (which was divided into three equal sections, separated by 
 two mocks, or controls).
 
-<img src="github/Intro-Sci-Comp-UIowa/biol-4386-course-project-Mythguy/blob/main/Data/Row%20A%20Piplartine.png" width="800px" height="auto">
 
+https://github.com/Intro-Sci-Comp-UIowa/biol-4386-course-project-Mythguy/blob/main/Data/Row%20A%20Piplartine.png?raw=true
 
 ## Materials and Methods
 Because I already have the data (both in raw form and after organizing), the procedure 
