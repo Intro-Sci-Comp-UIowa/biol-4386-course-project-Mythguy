@@ -45,6 +45,9 @@ each well, averaged out for all row A. Each line represents a single trial, one 
 each section of the plate (which was divided into three equal sections, separated by 
 two mocks, or controls).
 
+<img src="github/Intro-Sci-Comp-UIowa/biol-4386-course-project-Mythguy/blob/main/Data/Row%20A%20Piplartine.png" width="800px" height="auto">
+
+
 ## Materials and Methods
 Because I already have the data (both in raw form and after organizing), the procedure 
 should be straightforward. I will be using the raw data so that I can ensure I do not 
