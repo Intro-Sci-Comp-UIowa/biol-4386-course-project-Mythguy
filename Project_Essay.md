@@ -34,7 +34,7 @@ prevent the data from being clear and easy to interpret, as well as selecting a
 different figure type to better fit the type of data being represented.
 
 
-![Row A Mock](Data/Row A Mock.png)
+![Row A Mock](Data/Row_A_Mock.png)
 
 Figure 1. Mock Plate Sections for Row A (above), Figure 2. Piplartine Plate Sections 
 for Row A (below). The X-axis is the time period. At every hour, an image of the plate 
