@@ -33,7 +33,8 @@ consolidated into one line in a new figure to prevent unnecessary overlap that w
 prevent the data from being clear and easy to interpret, as well as selecting a 
 different figure type to better fit the type of data being represented.
 
-https://github.com/Intro-Sci-Comp-UIowa/biol-4386-course-project-Mythguy/blob/main/Data/Row%20A%20Mock.png?raw=true
+
+
 
 Figure 1. Mock Plate Sections for Row A (above), Figure 2. Piplartine Plate Sections 
 for Row A (below). The X-axis is the time period. At every hour, an image of the plate 
@@ -45,7 +46,7 @@ each section of the plate (which was divided into three equal sections, separate
 two mocks, or controls).
 
 
-img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 109”
+
 
 ## Materials and Methods
 Because I already have the data (both in raw form and after organizing), the procedure 
