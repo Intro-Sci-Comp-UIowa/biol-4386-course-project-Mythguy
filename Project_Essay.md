@@ -45,7 +45,7 @@ each well, averaged out for all row A. Each line represents a single trial, one 
 each section of the plate (which was divided into three equal sections, separated by 
 two mocks, or controls).
 
-
+![Row A Piplartine](Data/Row_A_Piplartine.png)
 
 
 ## Materials and Methods
