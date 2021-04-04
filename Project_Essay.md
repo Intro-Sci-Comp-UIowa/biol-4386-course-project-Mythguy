@@ -1,4 +1,4 @@
-# Redemption for Data Generated as an Undergraduate Assistant, Regarding the Effectiveness of various drug treaments on Ovarian Cancer Cells
+# Redemption for Data Generated as an Undergraduate Assistant, Regarding the Effectiveness of Various Drug Treaments on Ovarian Cancer Cells
  
 ## Introduction
 During the fall of 2019 and Spring of 2020, one of several projects being worked on at the University of Iowa 
