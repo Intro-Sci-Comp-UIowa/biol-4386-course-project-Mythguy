@@ -26,12 +26,8 @@ figures. My goal will be determine and generate figures that effectively showcas
 (Piplartine) caused any notable cellular response, using these measurements and data generated.
 
  
-## Expected Figure
-Ideally, the expected figure would look similar to the ones shown in figures 1 and 2 in 
-terms of the type of data they present. However, the datasets shown will be 
-consolidated into one line in a new figure to prevent unnecessary overlap that would 
-prevent the data from being clear and easy to interpret, as well as selecting a 
-different figure type to better fit the type of data being represented.
+## Results
+Thes preliminary figures show the cellular response to the drug Piplartine over a 24 hour period. The cells were imaged once every hour through several differents means (DPC, Fluorescence), and then analyzed by the software. The software's work was then checked for errors and corrected as necessary.
 
 
 ![Row A Mock](Data/Row_A_Mock.png)
@@ -49,31 +45,13 @@ two mocks, or controls).
 
 
 ## Materials and Methods
-Because I already have the data (both in raw form and after organizing), the procedure 
-should be straightforward. I will be using the raw data so that I can ensure I do not 
-miss any mistakes I may have made early on in the process. With this, I will need to 
-organize the data in a way that allows me to create new figures of a much higher 
-quality. I will also have A LOT of data to choose from, so I will also need to sort 
-through it in order to choose good data that I can generate those high-quality figures 
-from. I will transpose the data I choose into a separate table so that it will be 
-easier to generate a variety of figures from, which I can then choose from to pick the 
-figure the best fits what the data represents. My first goal for reworking the data 
-into tables will be separating each drug candidate into its own unique page in excel, 
-this will help with backend processing by dividing the data into smaller chunks, and 
-make it easier to construct the formulas I need and to make the graphs. Next, I will 
-need to create several rough figures and go through the strengths and weaknesses of 
-each one, before I settle on one and begin to fine-tune it. From there, I will be able 
-to create the stronger figures, and then go back and contextualize them by comparing 
-them with the data to see if they accurately represent it, and inform the reader to the 
-specifics that I would like them to learn when they look at the figure.
 
-The converted data is accessible in the 'Data' directory on Github. There are two formats available for 
-download at the moment, and more will become available as time progresses. The two formats look identical but 
+To produce the preliminary figures, the data was rework and separated by drug type into separate pages, for a total of 8 different pages. The drug Pilartine was selected to be the drug that figures would be produced from, mostly for ambiguous reasons, but also because it was misread as Palpatine, which is fun. From there, the mean of the standard deviation of the intensity of the GFP Fluorescence of the nuclei in each well, averaged out for all row A, was chosen to be the Y axis, while the 24 hour time period was chosen to be the X axis.
+
+The converted data data used to generate the figure is accessible in the 'Data' directory on Github. There are two formats available for download at the moment, and more will become available as time progresses. The two formats look identical but 
 are actually slightly different: The two formats are TD (Tab Delineated) and CS (Comma Separated), which are 
 where an excel file is converted into a text format that is relatively universal and therefore easy to 
-transfer. From there, I will now freely be able to begin experimenting with the specific data set I want to 
-generate figures from, as there are a wide variety of characteristics which were measured by the Harmony 
-Imaging Software that I can choose from to generate figures. 
+transfer.
  
 References: University of Iowa High-Throughput Screening Laboratory. Dr. Meng Wu, Research 
 Specialist Kuo-Kuang Wen, Undergraduate Research Assistant Drew Elles
