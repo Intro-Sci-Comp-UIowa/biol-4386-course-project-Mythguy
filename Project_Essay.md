@@ -24,7 +24,7 @@ two mocks, or controls).
 
 ## Materials and Methods
 
-To produce the preliminary figures, the data was reworked and separated by drug type into separate pages, for a total of 8 different pages. The drug Piplartine was selected to be the drug that figures would be produced from, mostly for ambiguous reasons, but also because it was misread as Palpatine, which is fun. From there, the mean of the standard deviation of the intensity of the GFP Fluorescence of the nuclei in each well, averaged out for all row A, was chosen to be the Y axis, while the 24 hour time period was chosen to be the X axis. Pending feedback, the above figures may be reformatted for clarity, or a new Y axis variable may even be chosen.
+To produce the preliminary figures, the data was reworked and separated by drug type into separate pages, for a total of 8 different pages. The drug Piplartine was selected to be the drug that figures would be produced from, mostly for ambiguous reasons, but also because it was misread as Palpatine, which is fun. From there, the mean of the standard deviation of the intensity of the GFP Fluorescence of the nuclei in each well, averaged out for all row A, was chosen to be the Y-axis, while the 24 hour time period was chosen to be the X-axis. Pending feedback, the above figures may be reformatted for clarity, or a new Y-axis variable may even be chosen.
 
 The converted data used to generate the figure is accessible in the 'Data' directory on Github. There are two formats available for download at the moment. The two formats look identical but are actually slightly different: The two formats are TD (Tab Delineated) and CS (Comma Separated), which are where an excel file is converted into a text format that is relatively universal and therefore easy to transfer.
  
@@ -33,4 +33,4 @@ Specialist Kuo-Kuang Wen, Undergraduate Research Assistant Drew Elles
 
 
 ## Next Steps and Discussion
-My next goal is to use feedback to improve the quality of my figures and writing. The biggest obstacle I'm currently encountering is time management for completeing the graphs, but now that the figures are made, it will be much easier to change their form based on feedback
+My next goal is to use feedback to improve the quality of my figures and writing. The biggest obstacle I'm currently encountering is time management for completing the graphs, but now that the figures are made, it will be much easier to change their form based on feedback
