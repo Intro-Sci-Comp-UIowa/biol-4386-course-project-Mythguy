@@ -33,4 +33,4 @@ Specialist Kuo-Kuang Wen, Undergraduate Research Assistant Drew Elles
 
 
 ## Next Steps and Discussion
-My next goal is to use feedback to improve the quality of my figures and writing. The biggest obstacle I'm currently encountering is dealing with the amount of data I have to work with while also learning the different coding languages and pieces of software.
+My next goal is to use feedback to improve the quality of my figures and writing. The biggest obstacle I'm currently encountering is time management for completeing the graphs, but now that the figures are made, it will be much easier to change their form based on feedback
