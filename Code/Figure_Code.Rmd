@@ -7,4 +7,6 @@ ggplot(data = Drug_response, mapping = aes(x = Timepoint, y = Nuclei_IntNucGFP_M
 
 
 png("Figures/Drug_response.png", res = 300, height = 6, width = 12, units = "in")
+dev.off()
 ```
+}
