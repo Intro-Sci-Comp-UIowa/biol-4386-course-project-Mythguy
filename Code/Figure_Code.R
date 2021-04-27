@@ -1,4 +1,3 @@
-```{r Plot}
 library(ggplot2)
 library(dplyr)
 Drug_response_data = read.table("Data/Bioinformatics Data.txt", sep="\t", header=TRUE)
@@ -11,4 +10,3 @@ png("Figures/Drug_Response_Plot.png", res = 300, height = 6, width = 12, units =
 Drug_Response_Plot
 
 dev.off()
-```
