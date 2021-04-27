@@ -1,4 +1,4 @@
-```{r PiplartineGraph}
+```{r Figures}
 library(ggplot2)
 library(dplyr)
 Drug_response_data = read.table("Data/Bioinformatics Data.txt", sep="\t", header=TRUE)
