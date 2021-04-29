@@ -6,7 +6,7 @@ During the fall of 2019 and Spring of 2020, one of several projects being worked
 ## Results
 This figure shows the cellular response to the drug Piplartine over a 24 hour period. The cells were imaged once every hour through several differents means (DPC, Fluorescence), and then analyzed by the software. The work done by the software was then checked for errors and corrected as necessary. As can be seen in the figure, the results are fairly similar, which may indicate that the drug treatment did not have a noticeable effect on the OCCs.
 
-! [Drug Response] (Figures/Drug_response_plot.png)
+! [Drug Response] (Figures/Drug_Response_Plot.png)
 
 Figure 1. Mock Plate Sections for Row A (above), Figure 2. Piplartine Plate Sections 
 for Row A (below). The X-axis is the time period. At every hour, an image of the plate 
