@@ -1,0 +1,1 @@
+This folder contains the original figures, plate setup information, and the plate data in both CS and TD text files. When refrencing the data to crete the new figures, use the Bioinformatics Data.txt file
